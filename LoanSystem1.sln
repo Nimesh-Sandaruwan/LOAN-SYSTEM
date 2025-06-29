@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanSystem1", "LoanSystem1\LoanSystem1.csproj", "{ED58BF7F-243B-42F3-882C-8AB8E113B180}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setupmon", "Setupmon\Setupmon.vdproj", "{5E0ECDF6-C7C1-93C6-4D4D-88EA63C471B1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LoanAmp", "LoanAmp\LoanAmp.vdproj", "{D0F9354D-5665-6AC4-F514-886DC2403D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED58BF7F-243B-42F3-882C-8AB8E113B180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED58BF7F-243B-42F3-882C-8AB8E113B180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED58BF7F-243B-42F3-882C-8AB8E113B180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED58BF7F-243B-42F3-882C-8AB8E113B180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0ECDF6-C7C1-93C6-4D4D-88EA63C471B1}.Debug|Any CPU.ActiveCfg = Debug
+		{5E0ECDF6-C7C1-93C6-4D4D-88EA63C471B1}.Release|Any CPU.ActiveCfg = Release
+		{D0F9354D-5665-6AC4-F514-886DC2403D0C}.Debug|Any CPU.ActiveCfg = Debug
+		{D0F9354D-5665-6AC4-F514-886DC2403D0C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3B540F-357D-488F-A5D1-5EF3E480B515}
+	EndGlobalSection
+EndGlobal
